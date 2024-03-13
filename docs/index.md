@@ -6,4 +6,4 @@ oscilloscope at a fraction of the cost.
 
 For PicoScope products and tools, go to [https://www.picotech.co.uk](https://www.picotech.com)
 
-*Use the contents menu on the left to navigate through the documents.*
+⬅️*Use the contents menu on the left to navigate through the documents.*

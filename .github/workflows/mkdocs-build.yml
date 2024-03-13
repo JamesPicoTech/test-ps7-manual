@@ -37,7 +37,7 @@ jobs:
           pip install mkdocs-with-pdf
           mkdocs build
       - name: Deploy MkDocs
-        uses: JamesPicoTech/test-ps7-manual@master
+        uses: JamesPicoTech/test-ps7-manual
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # CUSTOM_DOMAIN: optionaldomain.com

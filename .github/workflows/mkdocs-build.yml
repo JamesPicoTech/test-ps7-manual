@@ -32,7 +32,9 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
-          pip install mkdocs; mkdocs-glightbox; mkdocs-with-pdf
+          pip install mkdocs; 
+          pip install mkdocs-glightbox
+          pip install mkdocs-with-pdf
           # mkdocs gh-deploy
           echo Add other actions to build,
           echo test, and deploy your project.

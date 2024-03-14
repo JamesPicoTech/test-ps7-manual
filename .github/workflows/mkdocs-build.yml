@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_TOKEN}}
+          token: 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
       # - uses: actions/setup-python@v4
       #   with:
       #     python-version: 3.10

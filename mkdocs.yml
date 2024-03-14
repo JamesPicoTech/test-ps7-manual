@@ -70,6 +70,6 @@ exclude_docs: |
 plugins: 
  - glightbox  # https://github.com/blueswen/mkdocs-glightbox
  - search
-#  - with-pdf:  # https://github.com/orzih/mkdocs-with-pdf (PDF theme override templates/style.scss)
-#     exclude_pages: 
-#       - 'PicoScope-7/manual-download'
+ - with-pdf:  # https://github.com/orzih/mkdocs-with-pdf (PDF theme override templates/style.scss)
+    exclude_pages: 
+      - 'PicoScope-7/manual-download'

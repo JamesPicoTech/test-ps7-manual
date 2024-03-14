@@ -9,7 +9,7 @@ copyright: 'Copyright information ©️'
 
 nav:
   - PicoScope 7: index.md
-  - System requirements: PicoScope-7/system-requirements.md
+  # - System requirements: PicoScope-7/system-requirements.md
   - Quick-start guide: PicoScope-7/quick-start-guide.md
   - Oscilloscope basics:
     - Run/Stop oscilloscope: Oscilloscope-basics/run-stop-oscilloscope.md
@@ -49,6 +49,7 @@ nav:
     - Glossary: PicoScope-7/glossary.md
 
 exclude_docs: |
+  PicoScope-7/system-requirements.md
   Oscilloscope-advanced/
   PicoScope-7/spectrum-mode.md
   PicoScope-7/persistence-mode.md

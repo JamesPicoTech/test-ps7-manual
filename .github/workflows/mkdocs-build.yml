@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          token: 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
+          token: ${{ secrets.GH_TOKEN }}
       # - uses: actions/setup-python@v4
       #   with:
       #     python-version: 3.10

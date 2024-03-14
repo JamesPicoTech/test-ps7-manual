@@ -21,3 +21,5 @@ date: 2024-03-14
 | RAM           | 4 GB                      |
 | Storage       | 8 GB free space           |
 | USB           | USB 2.0 port(s)           |
+
+# Test

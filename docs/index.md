@@ -1,3 +1,11 @@
+---
+title: Example PicoScope 7 documentation homepage
+summary: This is the PicoScope 7 example documentation homepage, from here use the navigation bar to browse through tpoics.
+authors:
+    - James Mackey
+date: 2024-03-14
+---
+
 # Welcome to the PicoScope Documentation
 This user's guide is designed to help you use the PicoScope 7.
 With a scope device from Pico Technology, PicoScope turns your PC into a powerful PC
